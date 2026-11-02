@@ -7,6 +7,6 @@
 <title>This is test jsp</title>
 </head>
 <body>
-
+<h1>This is test only jsp</h1>
 </body>
 </html>
